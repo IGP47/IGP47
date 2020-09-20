@@ -10,7 +10,7 @@
 
 I'm Guru Prasanna ,An aspiring student who is mainly intrested in information security.
 
-- 🔭 I’m currently working on an AI product and Oreoweb framework with inbuilt NitroDB
+- 🔭 I’m currently working on ...
 - 🌱 I  love to 
 - 🌱 I am a cybersecurity enthusiasist
 - ⚡ Languages: Python3, C, C++, Java,
