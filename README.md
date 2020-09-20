@@ -12,6 +12,6 @@ I'm Guru Prasanna ,An aspiring student who is mainly intrested in information se
 
 - 🔭 I’m currently working on ...
 - 🌱 I am a cybersecurity enthusiasist
-- ⚡ Languages: Python3, C, C++, Java,
+- ⚡ Languages: Python3, C, C++, Java
 
 
