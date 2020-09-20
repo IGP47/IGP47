@@ -11,11 +11,7 @@
 I'm Guru Prasanna ,An aspiring student who is mainly intrested in information security.
 
 - 🔭 I’m currently working on ...
-- 🌱 I  love to 
 - 🌱 I am a cybersecurity enthusiasist
 - ⚡ Languages: Python3, C, C++, Java,
 
- 
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=IGP47&show_icons=true" alt="IGP47" /></p>
 
