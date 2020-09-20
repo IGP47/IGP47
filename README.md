@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**IGP47/IGP47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Guru Prasanna I
+[![Gmail Badge](https://img.shields.io/badge/-guruprasanna321@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guruprasanna321@gmail.com)](mailto:guruprasanna321@gmail.com)
+
+ 
+
+I'm Guru Prasanna ,An aspiring student who is mainly intrested in information security.
+
+- 🔭 I’m currently working on an AI product and Oreoweb framework with inbuilt NitroDB
+- 🌱 I  love to 
+- 🌱 I am a cybersecurity enthusiasist
+- ⚡ Languages: Python3, C, C++, Java,
+
+ 
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=IGP47&show_icons=true" alt="IGP47" /></p>
+
