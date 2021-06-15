@@ -10,7 +10,7 @@
 
 I'm Guru Prasanna ,An aspiring student who is mainly intrested in information security.
 
-- 🔭 I’m currently working on Software engineering project
+- 🔭 currently preparing on algorithms and data structures.
 - 🌱 I am a cybersecurity enthusiasist
 - ⚡ Languages: Python3, C, C++, JavaScript,NodeJS (backend using express)
 
