@@ -12,6 +12,6 @@ I'm Guru Prasanna ,An aspiring student who is mainly intrested in information se
 
 - 🔭 currently working on Net Centric programming project.
 - 🌱 I am a cybersecurity enthusiasist
-- ⚡ Languages: Python3, C, C++, JavaScript,NodeJS (backend using express)
+- ⚡ Languages: Python3, C, C++,Java,JavaScript,NodeJS (backend using express)
 
 
