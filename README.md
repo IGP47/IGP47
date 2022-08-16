@@ -8,9 +8,9 @@
 
  
 
-I'm Guru Prasanna ,An aspiring student who is mainly intrested in information security.
+I'm Guru Prasanna, I am currrently intrested in digital forensics.
 
-- 🔭 currently working on Net Centric programming project.
+- 🔭 currently working at PwC
 - 🌱 I am a cybersecurity enthusiasist
 - ⚡ Languages: Python3, C, C++,Java,JavaScript,NodeJS (backend using express)
 
